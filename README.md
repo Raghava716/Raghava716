@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkat Raghava
 
-🎓 I'm currently pursuing my M.Sc. in Data Science at VIT Chennai**  
+🎓 I'm currently pursuing my **M.Sc. in Data Science at VIT Chennai** 
 💼 Previously worked at Accenture** with 1.5 years of experience** in the IT industry  
 📊 Passionate about **Data Engineering** and **Analytics**  
 🛠️ Currently working on hands-on projects using **Python**, **SQL**, **Apache Spark**, and **Airflow**  
