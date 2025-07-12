@@ -1,12 +1,26 @@
-##Hi, I'm Venkat Raghava
+# 👋 Hi, I'm Venkat Raghava
 
-🎓 M.Sc. Data Science student at VIT Chennai<br/>
-💼 1.5 years of IT experience at Accenture<br/>  
-📊 Passionate about Data Engineering and Analytics<br/> 
-🛠️ Currently working on projects using Python, SQL, Spark, and Airflow<br/>  
-🤖 Also exploring machine learning with projects like Fake News Detection using BERT<br/>  
-🚀 Actively building data pipelines and ETL workflows<br/>  
-📚 Always learning, building, and sharing<br/>  
+🎓 I'm currently pursuing my M.Sc. in Data Science at VIT Chennai**  
+💼 Previously worked at Accenture** with 1.5 years of experience** in the IT industry  
+📊 Passionate about **Data Engineering** and **Analytics**  
+🛠️ Currently working on hands-on projects using **Python**, **SQL**, **Apache Spark**, and **Airflow**  
+🤖 Exploring **Machine Learning**, with projects like **Fake News Detection using BERT (LLM)**  
+🚀 Building **data pipelines** and **ETL workflows** to solve real-world data problems  
+📚 Always learning, building, and sharing to grow in the data space  
+
+---
+
+## 🌱 Outside of Tech
+
+🧳 Traveller & explorer of new places  
+📸 Amateur photographer  
+💪 Fitness enthusiast who loves **workouts** and **cardio**
+
+---
+
+📫 **Let’s connect!**  
+I'm always open to collaborating on data projects, learning opportunities, and tech discussions.
+
 
 
 
