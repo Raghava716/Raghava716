@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Venkat Raghava
+### Hi, I'm Venkat Raghava 👋
 
-🎓 I'm currently pursuing my **M.Sc. in Data Science at VIT Chennai** 
-💼 Previously worked at Accenture** with 1.5 years of experience** in the IT industry  
-📊 Passionate about **Data Engineering** and **Analytics**  
-🛠️ Currently working on hands-on projects using **Python**, **SQL**, **Apache Spark**, and **Airflow**  
-🤖 Exploring **Machine Learning**, with projects like **Fake News Detection using BERT (LLM)**  
-🚀 Building **data pipelines** and **ETL workflows** to solve real-world data problems  
-📚 Always learning, building, and sharing to grow in the data space  
+🎓 M.Sc. Data Science, VIT Chennai (2026) | CGPA: 8.89/10
+💼 15 months at Accenture — production monitoring, SLA tracking & reporting
+📊 Skilled in Python, SQL, Power BI, and Machine Learning (XGBoost, Scikit-learn)
+🤖 Projects: Customer Churn Prediction (85%+ accuracy) & Brain Tumour Classification (92% accuracy)
+📈 Turning messy data into dashboards, models, and business insights
+🚀 Seeking Data Science roles where analytics meets real impact
 
+📫 Let's connect: linkedin.com/in/venkat-raghava
 ---
 
 ## 🌱 Outside of Tech
